@@ -4,7 +4,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <h1>Portfolio of Pranav Kumar Jha </h1>
+      <h1>Pranav Kumar Jha </h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
